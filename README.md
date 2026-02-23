@@ -27,3 +27,32 @@
 2. 或打開終端機 (Terminal / 命令提示字元)，輸入指令：
    ```bash
    java -jar SnakeGame.jar
+   ```
+
+###方法二：透過 IDE 編譯執行
+將本專案 Clone 到本地端：
+
+```bash
+git clone https://github.com/aqws6361/java-snake-game.git
+```
+使用 IntelliJ IDEA 或 Eclipse 打開專案。
+
+找到 Main.java 檔案。
+
+點擊 Run 或執行 public static void main 方法即可開始遊戲。
+
+🎮 操作說明 (Controls)
+↑ : 向上移動
+
+↓ : 向下移動
+
+← : 向左移動
+
+→ : 向右移動
+
+當遊戲結束時，系統會自動比對並儲存你的最高分，並彈出視窗詢問是否重新開始。
+
+👤 作者 (Author)
+鄧仕良 (Adam) * https://github.com/aqws6361
+
+If you like this project, feel free to leave a ⭐!
