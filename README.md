@@ -45,6 +45,7 @@ git clone https://github.com/aqws6361/java-snake-game.git
 
 ### 🎮 操作說明 (Controls)
 
+
 ↑ : 向上移動
 
 ↓ : 向下移動
