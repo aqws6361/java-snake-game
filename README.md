@@ -43,7 +43,7 @@ git clone https://github.com/aqws6361/java-snake-game.git
 點擊 Run 或執行 public static void main 方法即可開始遊戲。
 
 
-🎮 操作說明 (Controls)
+### 🎮 操作說明 (Controls)
 
 ↑ : 向上移動
 
