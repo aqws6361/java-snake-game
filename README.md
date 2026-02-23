@@ -57,6 +57,7 @@ git clone https://github.com/aqws6361/java-snake-game.git
 
 
 ## 👤 作者 (Author)
+
 鄧仕良 (Adam) * https://github.com/aqws6361
 
 If you like this project, feel free to leave a ⭐!
